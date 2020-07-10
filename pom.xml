@@ -11,7 +11,7 @@
 
   	<groupId>se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome</groupId>
 		<artifactId>GetAggregatedVaccinationHistory-v1</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0-RC1</version>
     <packaging>pom</packaging>
     <name>GetAggregatedVaccinationHistory-v1</name>
 
@@ -24,7 +24,7 @@
     <url>http://github.com/skltp-aggregerandetjanster/riv.clinicalprocess.activityprescription.actoutcome.GetAggregatedVaccinationHistory-v1</url>
     <connection>scm:git:https://github.com:443/skltp-aggregerandetjanster/riv.clinicalprocess.activityprescription.actoutcome.GetAggregatedVaccinationHistory-v1.git</connection>
     <developerConnection>scm:git:https://github.com:443/skltp-aggregerandetjanster/riv.clinicalprocess.activityprescription.actoutcome.GetAggregatedVaccinationHistory-v1.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>GetAggregatedVaccinationHistory-v1-1.0.0-RC1</tag>
   </scm>
 
   <modules>  
