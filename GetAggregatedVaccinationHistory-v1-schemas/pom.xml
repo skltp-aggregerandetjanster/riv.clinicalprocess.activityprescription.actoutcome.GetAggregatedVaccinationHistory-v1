@@ -5,7 +5,7 @@
   <parent>
     <groupId>se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome</groupId>
     <artifactId>GetAggregatedVaccinationHistory-v1</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
   </parent>
   <artifactId>GetAggregatedVaccinationHistory-v1-schemas</artifactId>
   <properties>
